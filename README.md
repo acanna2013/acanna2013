@@ -18,7 +18,7 @@ I am an undergraduate student at Purdue University majoring in Computer Science,
 
 - 🖥️ I will be working on a research project at NanoHUB, data science focused. Looking forward to that!
 
--  <img src="https://github.com/acanna2013/acanna2013/blob/main/game-console.gif" height=30/> Fun fact: I love to build things, such as legos, Roblox, and Minecraft! I am also a gamer, I love playing indie games especially Zelda and Super Smash Bros!
+-  <img src="https://github.com/acanna2013/acanna2013/blob/main/game-console.png" height=30/> Fun fact: I love to build things, such as legos, Roblox, and Minecraft! I am also a gamer, I love playing indie games especially Zelda and Super Smash Bros!
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
