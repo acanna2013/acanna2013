@@ -1,5 +1,5 @@
 <div align="center" id="header">
-![annachengif](https://github.com/acanna2013/acanna2013/blob/main/giphy.gif)
+  <img src="https://github.com/acanna2013/acanna2013/blob/main/giphy.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Anna Chen</h1>
