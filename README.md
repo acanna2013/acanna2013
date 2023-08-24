@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://github.com/acanna2013/acanna2013/blob/main/arm-up.png" height=30/>, I'm Anna Chen</h1>
+<h1 align="center">Hi  <img src="https://github.com/acanna2013/acanna2013/blob/main/fist-bump.png" height=30/>, I'm Anna Chen</h1>
 <div align="center" id="header">
   <img src="https://github.com/acanna2013/acanna2013/blob/main/pusheen-cat-keyboard.gif" height=300/>
 </div>
