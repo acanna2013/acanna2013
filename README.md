@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW" width="300"/>
-</div>
+![annachengif](https://github.com/acanna2013/acanna2013/blob/main/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Anna Chen</h1>
 <h3 align="center">A passionate coder that loves to turn data into actionable insights</h3>
 
