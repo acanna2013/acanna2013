@@ -2,6 +2,11 @@
 <div align="center" id="header">
   <img src="https://github.com/acanna2013/acanna2013/blob/main/giphy (1).gif" height=300/>
 </div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/chnanna/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <h3 align="center">A passionate coder that loves to turn data into actionable insights</h3>
 
 ## About me <img src="https://github.com/acanna2013/acanna2013/blob/main/panda-bear.png" height=20/>
