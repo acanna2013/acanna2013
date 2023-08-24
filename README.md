@@ -1,4 +1,6 @@
+<div align="center" id="header">
 ![annachengif](https://github.com/acanna2013/acanna2013/blob/main/giphy.gif)
+</div>
 
 <h1 align="center">Hi 👋, I'm Anna Chen</h1>
 <h3 align="center">A passionate coder that loves to turn data into actionable insights</h3>
