@@ -5,13 +5,13 @@
 <h3 align="center">A passionate coder that loves to turn data into actionable insights</h3>
 
 ### About me <img src="https://github.com/acanna2013/acanna2013/blob/main/panda-bear.png" height=20/>
-- 🌱 I’m currently learning **Analysis of Algorithms, Data Mining**
+I am an undergraduate student at Purdue University majoring in Computer Science, Data Science, and Applied Statistics! I have an insatiable curiousity for numbers and their stories, which led me to pursuing an education and career in programming and the art of data analysis. From exploratory data analysis to machine learning, I strive to extract meaningful knowledge from data, and help people make informed decisions.
 
-- 💬 Ask me about **anything!**
+- 🌱 I’m currently learning **Analysis of Algorithms, Data Mining and Machine Learning, and Data Engineering**
 
-- 📫 How to reach me **ac.anna2013@gmail.com**
+- 🖥️ I will be working on a research project at NanoHUB, data science focused. Looking forward to that!
 
-- ⚡ Fun fact **I love to build things, such as legos and Minecraft!**
+- ⚡ Fun fact **I love to build things, such as legos, Roblox, and Minecraft! I am also a gamer, I love playing indie games especially Zelda and Super Smash Bros!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
