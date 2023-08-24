@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anna Chen</h1>
 <div align="center" id="header">
-  <img src="https://github.com/acanna2013/acanna2013/blob/main/giphy (1).gif" height=300/>
+  <img src="https://github.com/acanna2013/acanna2013/blob/main/pusheen-cat-keyboard.gif" height=300/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chnanna/">
