@@ -1,4 +1,5 @@
 <h1 align="center">Hi  <img src="https://github.com/acanna2013/acanna2013/blob/main/fist-bump.png" height=30/>, I'm Anna Chen</h1>
+<h4 align="center">A passionate coder that loves to turn data into actionable insights</h4>
 <div align="center" id="header">
   <img src="https://github.com/acanna2013/acanna2013/blob/main/pusheen-cat-keyboard.gif" height=300/>
 </div>
@@ -8,7 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h3 align="center">A passionate coder that loves to turn data into actionable insights</h3>
 
 ## About me <img src="https://github.com/acanna2013/acanna2013/blob/main/panda-bear.png" height=30/>
 
