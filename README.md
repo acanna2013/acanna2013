@@ -24,5 +24,5 @@ I am an undergraduate student at Purdue University majoring in Computer Science,
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acanna2013&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="acanna2013" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acanna2013&theme=dark&background=000000" alt="acanna2013" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acanna2013&show_icons=true&locale=en&theme=dark&background=000000" alt="acanna2013" /></p>
 
