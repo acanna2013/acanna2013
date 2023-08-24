@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A passionate coder that loves to turn data into actionable insights</h3>
 
-### About me <img src="https://www.flaticon.com/free-stickers/animals" height=20/>
+### About me <img src="https://github.com/acanna2013/acanna2013/blob/main/panda-bear.png" height=20/>
 - 🌱 I’m currently learning **Analysis of Algorithms, Data Mining**
 
 - 💬 Ask me about **anything!**
