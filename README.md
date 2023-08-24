@@ -23,7 +23,7 @@ I am an undergraduate student at Purdue University majoring in Computer Science,
 <h3 align="left">📬 Connect with me: <a href="https://www.linkedin.com/in/chnanna/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></h3>
-  * **I am currently looking for an internship in software engineering or data science roles! I am also open to other roles, please feel free to reach out on LinkedIn!
+  * **I am currently looking for an internship in software engineering or data science roles! I am also open to other roles, please feel free to reach out on LinkedIn!**
 
 ---
 
