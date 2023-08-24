@@ -1,5 +1,5 @@
 <div align="center" id="header">
-  <img src="https://github.com/acanna2013/acanna2013/blob/main/giphy (1).gif"/>
+  <img src="https://github.com/acanna2013/acanna2013/blob/main/giphy (1).gif" width=300/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Anna Chen</h1>
