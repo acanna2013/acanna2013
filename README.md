@@ -20,10 +20,9 @@ I am an undergraduate student at Purdue University majoring in Computer Science,
 
 -  <img src="https://github.com/acanna2013/acanna2013/blob/main/game-console.png" height=30/> Fun fact: I love to build things, such as legos, Roblox, and Minecraft! I am also a gamer, I love playing indie games especially Zelda and Super Smash Bros!
 
-<h3 align="left">📬 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chnanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chnanna" height="30" width="40" /></a>
-</p>
+<h3 align="left">📬 Connect with me:</h3> <a href="https://www.linkedin.com/in/chnanna/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
 
