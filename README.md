@@ -1,8 +1,7 @@
+<h1 align="center">Hi 👋, I'm Anna Chen</h1>
 <div align="center" id="header">
   <img src="https://github.com/acanna2013/acanna2013/blob/main/giphy (1).gif" height=300/>
 </div>
-
-<h1 align="center">Hi 👋, I'm Anna Chen</h1>
 <h3 align="center">A passionate coder that loves to turn data into actionable insights</h3>
 
 - 🌱 I’m currently learning **Analysis of Algorithms, Data Mining**
