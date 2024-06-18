@@ -36,9 +36,3 @@ I am an undergraduate student at Purdue University majoring in Computer Science,
 
 ## Github Stats
 
-* As I am juggling with coursework and research, I won't be that active on Github. I will improve upon this as I have more time!
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acanna2013&show_icons=true&locale=en&theme=dark&background=000000" alt="acanna2013" /></p>
-
-
-
