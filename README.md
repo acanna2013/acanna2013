@@ -24,7 +24,7 @@ I am an undergraduate student at Purdue University majoring in Computer Science,
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></h3>
   
-**I am graduating May 2025, so I am currently looking for a job in software engineering or data science! I am also open to other roles, please feel free to reach out on LinkedIn!**
+**I am graduating May 2025, so I am currently looking for a job in software engineering or data science! I am also open to other roles, please feel free to reach out on LinkedIn.**
 
 ---
 
@@ -34,5 +34,4 @@ I am an undergraduate student at Purdue University majoring in Computer Science,
 * Courses learned: Databases (MongoDB, Neo4J, SQL), Discrete mathematics, Probability, Data Structures and Algorithms, C Programming, Object-Oriented Programming with Java, Systems Programming (C, C++), Computer Architecture (Hardware)
 * Top skills: Python, Pandas, SQL, Numpy, Tableau, SQLAlchemy, Convolutional Neural Networks, Classification Models
 
-## Github Stats
 
