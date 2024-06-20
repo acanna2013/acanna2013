@@ -1,37 +1,33 @@
-<h1 align="center">Hi  <img src="https://github.com/acanna2013/acanna2013/blob/main/fist-bump.png" height=30/>, I'm Anna Chen <h4 align="center">A passionate coder that loves to turn data into actionable insights</h4></h1>
+```python
+class about_me:
+  NAME = "Anna Chen"
 
-<div align="center" id="header">
-  <img src="https://github.com/acanna2013/acanna2013/blob/main/pusheen-cat-keyboard.gif" height=300/>
-</div>
+  def experience():
+    if summer_2024 || currently:
+      return "software engineering internship with Amazon One Medical"
+    elif winter_2024:
+      return "machine learning internship with Tesla"
+    elif summer_2023:
+      return "data science internship with Caterpillar"
+    elif winter_2023:
+      return "research with NASA and Purdue"
+    
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/chnanna/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+  def school_info(university: str) -> str:
+    if university == "Purdue University":
+      majors = ["Computer Science", "Data Science"]
+    return "graduating May 2025"
 
-## About me <img src="https://github.com/acanna2013/acanna2013/blob/main/panda-bear.png" height=30/>
+  def what_i_enjoy(input_str):
+    interests = ["curiousity for numbers and their stories", "programming", "machine learning", "making informed decisions"]
 
-I am an undergraduate student at Purdue University majoring in Computer Science, Data Science! I have an insatiable curiousity for numbers and their stories, which led me to pursuing an education and career in programming and the art of data analysis. From exploratory data analysis to machine learning, I strive to extract meaningful knowledge from data, and help people make informed decisions.
+    if input_str in ("legos", "KenKen puzzles", "board games", "building things"):
+      hobbies = input_str
 
-- 🌱 I’m currently learning **Analysis of Algorithms, Data Mining and Machine Learning, and Data Engineering**
+  def aspirations():
+    job_interests = ["software engineering", "machine learning", "data science", "open to anything as i love to learn"]
 
-- 🖥️ I will be working on a research project at NanoHUB, data science focused. Looking forward to that!
-
--  <img src="https://github.com/acanna2013/acanna2013/blob/main/game-console.png" height=30/> Fun fact: I love to build things, such as legos and mechanical keyboards! My favorite activity before bed is solving 9x9 KenKen puzzles!
-
-<h3 align="left">📬 Connect with me: <a href="https://www.linkedin.com/in/chnanna/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a></h3>
-  
-**I am graduating May 2025, so I am currently looking for a job in software engineering or data science! I am also open to other roles, please feel free to reach out on LinkedIn.**
-
----
-
-<h3 align="left">Languages and Tools <img src="https://github.com/acanna2013/acanna2013/blob/main/coding.png" height=30/>:</h3> 
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-* Courses learned: Databases (MongoDB, Neo4J, SQL), Discrete mathematics, Probability, Data Structures and Algorithms, C Programming, Object-Oriented Programming with Java, Systems Programming (C, C++), Computer Architecture (Hardware)
-* Top skills: Python, Pandas, SQL, Numpy, Tableau, SQLAlchemy, Convolutional Neural Networks, Classification Models
+    return "please reach out to my email ac.anna2013@gmail.com or linkedin @ chnanna!"
+```
 
 
