@@ -3,7 +3,7 @@ class about_me:
   NAME = "Anna Chen"
 
   def experience():
-    if summer_2024 || currently:
+    if summer_2024 or currently:
       return "software engineering internship with Amazon One Medical"
     elif winter_2024:
       return "machine learning internship with Tesla"
