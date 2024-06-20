@@ -25,7 +25,7 @@ class about_me:
       hobbies = input_str
 
   def aspirations():
-    job_interests = ["software engineering", "machine learning", "data science", "open to anything as i love to learn"]
+    job_interests = ["software engineering", "machine learning", "data science", "open to anything"]
 
     return "please reach out to my email ac.anna2013@gmail.com or linkedin @ chnanna!"
 ```
