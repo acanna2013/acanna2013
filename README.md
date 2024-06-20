@@ -19,7 +19,7 @@ class about_me:
     return "graduating May 2025"
 
   def what_i_enjoy(input_str):
-    interests = ["curiousity for numbers and their stories", "programming", "machine learning", "making informed decisions"]
+    interests = ["curiousity for interpreting numbers", "programming", "machine learning", "making informed decisions"]
 
     if input_str in ("legos", "KenKen puzzles", "board games", "building things"):
       hobbies = input_str
