@@ -21,8 +21,8 @@ class about_me:
   def what_i_enjoy(input_str):
     interests = ["curiousity for interpreting numbers", "coding & building", "machine learning"]
 
-    if input_str in ("legos", "KenKen puzzles", "board games", "building things"):
-      hobbies = input_str
+    hobbies = ["legos", "KenKen puzzles", "board games", "building things"]:
+    return interests.extend(hobbies)
 
   def aspirations():
     job_interests = ["software engineering", "machine learning", "data science", "open to anything"]
