@@ -4,13 +4,15 @@ class about_me:
 
   def experience():
     if summer_2024 or currently:
-      return "software engineering internship with Amazon One Medical"
+      return "software engineering internship @ Amazon One Medical"
     elif winter_2024:
-      return "machine learning internship with Tesla"
+      return "machine learning internship @ Tesla"
     elif summer_2023:
-      return "data science internship with Caterpillar"
+      return "data science internship @ Caterpillar"
     elif winter_2023:
-      return "research with NASA and Purdue"
+      return "research @ NASA and Purdue"
+    elif summer_2022:
+      return "data science internship @ Indiana State Government"
     
 
   def school_info(university: str) -> str:
