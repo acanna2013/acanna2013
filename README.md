@@ -19,9 +19,9 @@ class about_me:
     return "graduating May 2025"
 
   def what_i_enjoy(input_str):
-    interests = ["curiousity for interpreting numbers", "coding & building", "machine learning"]
+    interests = ["coding", "building", "leaving an impact"]
 
-    hobbies = ["legos", "KenKen puzzles", "board games", "building things"]:
+    hobbies = ["legos", "KenKen puzzles", "board games"]:
     return interests.extend(hobbies)
 
   def aspirations():
