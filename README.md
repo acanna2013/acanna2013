@@ -3,8 +3,8 @@ class about_me:
   NAME = "Anna Chen"
 
   def experience():
-    if summer_2024 or currently:
-      return "software engineering internship @ Amazon One Medical"
+    if summer_2024:
+      return "software engineering internship @ Amazon"
     elif winter_2024:
       return "machine learning internship @ Tesla"
     elif summer_2023:
