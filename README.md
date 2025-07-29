@@ -10,7 +10,7 @@ class about_me:
     elif summer_2023:
       return "data science internship @ Caterpillar"
     elif winter_2023:
-      return "research @ NASA and Purdue"
+      return "research @ NASA"
     elif summer_2022:
       return "data science internship @ Indiana State Government"
     
