@@ -18,7 +18,7 @@ class about_me:
   def school_info(university: str) -> str:
     if university == "Purdue University":
       majors = ["Computer Science", "Data Science"]
-    return "graduating May 2025"
+    return "grad May 2025"
 ```
 
 
